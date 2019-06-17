@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on My Outdoors Journey</title>
+    <title>Latest Posts on My Outdoors Journey</title>
     <link>/avara.github.io/docs/</link>
-    <description>Recent content in Overview on My Outdoors Journey</description>
+    <description>Recent content in Latest Posts on My Outdoors Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -12,14 +12,13 @@
     
     
     <item>
-      <title>Install Hugo</title>
+      <title>Bruce Trail - Iroquoia Section</title>
       <link>/avara.github.io/docs/install-hugo/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/avara.github.io/docs/install-hugo/</guid>
-      <description> To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
-hugo version</description>
+      <description>Trip Summary **Trail Distance: ** 9.56 KM **Trip Distance: **
+Trip Report The Elevation profile</description>
     </item>
     
     <item>

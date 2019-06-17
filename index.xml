@@ -12,14 +12,13 @@
     
     
     <item>
-      <title>Install Hugo</title>
+      <title>Bruce Trail - Iroquoia Section</title>
       <link>/avara.github.io/docs/install-hugo/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/avara.github.io/docs/install-hugo/</guid>
-      <description> To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets. Please make sure you have the Hugo Extended version installed. If you are not using the extended version this theme will not not compile.
-hugo version</description>
+      <description>Trip Summary **Trail Distance: ** 9.56 KM **Trip Distance: **
+Trip Report The Elevation profile</description>
     </item>
     
     <item>
